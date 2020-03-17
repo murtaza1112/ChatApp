@@ -1,1 +1,2 @@
-# A ChatApp created using node.js ,socket.io library
+                                             #Chat Application
+ChatApp created using node.js ,socket.io library
