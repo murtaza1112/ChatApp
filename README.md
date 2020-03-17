@@ -16,15 +16,15 @@ BackEnd:Node.js(Socket.io)
 
 5.Migrate to the chat-app directory,if not already present.
 
-  cd chat-app
+                                 cd chat-app
 	
 6.Install the app, run the command.
 
-   npm run install
+                                npm install
 	 
 6.Run the application.
 
-  npm run dev.
+                                 npm run dev.
 	
 8.Application is active on port 3000.
   url:http://localhost:3000/
@@ -32,7 +32,7 @@ BackEnd:Node.js(Socket.io)
 If displaying error:3000 port already in use.
 To resolve this ,enter the following command:
 
-  killall -9 node
+                               killall -9 node
   
  *Production url:-
  heroku name:murtaza-chat-app
