@@ -15,12 +15,15 @@ BackEnd:Node.js(Socket.io)
 3.Install the node package manager(npm).
 
 5.Migrate to the chat-app directory,if not already present.
+
   cd chat-app
 	
 6.Install the app, run the command.
+
    npm run install
 	 
 6.Run the application.
+
   npm run dev.
 	
 8.Application is active on port 3000.
